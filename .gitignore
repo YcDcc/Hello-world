@@ -2,3 +2,4 @@ db.sqlite3
 geckodriver.log
 geckodriver.log__pycache__
 *.pyc
+/static
