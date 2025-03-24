@@ -3,3 +3,4 @@ geckodriver.log
 geckodriver.log__pycache__
 *.pyc
 /static
+src/db.sqlite3
